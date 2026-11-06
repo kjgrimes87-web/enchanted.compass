@@ -13,3 +13,16 @@ Location is only listed where it is certain; ask Kile before naming a place for 
 | old-street-night-arch-lanterns-hotpot-signs.jpg | Lit traditional buildings and stone arch at night, red lanterns, hotpot signs | Unknown (ask) | Portrait |
 | ancient-city-wall-stone-steps.jpg | Grey brick city-wall walkway with battlements and steps | Unknown (ask) | Portrait |
 | chengdu-ifs-panda-i-am-here.jpg | Giant geometric panda sculpture and "I am Here" sign at IFS mall | Chengdu | Landscape |
+
+## Athens, Greece (Acropolis), added 2026-11-06
+- athens/athens-odeon-herodes-atticus-from-above.jpg: Odeon of Herodes Atticus seen from the Acropolis, city behind
+- athens/athens-propylaea-steps-crowds.jpg: Propylaea from the steps, visitors climbing
+- athens/athens-propylaea-wall-columns.jpg: Propylaea wall and columns, low angle
+- athens/athens-propylaea-columns-sun-parthenon.jpg: Propylaea columns with sun, Parthenon behind
+- athens/athens-erechtheion-caryatid-porch.jpg: Erechtheion with the Caryatid porch
+- athens/athens-erechtheion-north-porch-wide.jpg: Erechtheion north porch, wide
+- athens/athens-erechtheion-north-porch-portrait.jpg: Erechtheion north porch, vertical
+- athens/athens-erechtheion-columns-olive.jpg: Erechtheion columns under an olive tree
+- athens/athens-erechtheion-window-columns.jpg: columns framed by a stone window
+- athens/athens-beule-gate-propylaea.jpg: Beulé Gate with the Propylaea through the doorway
+- athens/athens-selfie-parthenon.jpg: Kile's selfie in front of the Parthenon
