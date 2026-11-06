@@ -26,3 +26,9 @@ Location is only listed where it is certain; ask Kile before naming a place for 
 - athens/athens-erechtheion-window-columns.jpg: columns framed by a stone window
 - athens/athens-beule-gate-propylaea.jpg: Beulé Gate with the Propylaea through the doorway
 - athens/athens-selfie-parthenon.jpg: Kile's selfie in front of the Parthenon
+- athens/athens-rooftop-cocktail-acropolis-view.jpg: cocktail on a rooftop with the Acropolis behind (over Monastiraki)
+- athens/athens-roman-agora-gate.jpg: Doric gate, low angle (Roman Agora area)
+- athens/athens-chill-frozen-yogurt.jpg: Chill Greek frozen yogurt cup, stone interior
+- athens/athens-selfie-acropolis-view-hat.jpg: Kile's selfie in a hat with the Acropolis entrance behind
+- athens/athens-little-kook-alice.jpg / athens-little-kook-front.jpg: Little Kook themed café, Psyrri
+- athens/athens-temple-of-hephaestus-view.jpg: Temple of Hephaestus and the city, from above
