@@ -32,3 +32,14 @@ Location is only listed where it is certain; ask Kile before naming a place for 
 - athens/athens-selfie-acropolis-view-hat.jpg: Kile's selfie in a hat with the Acropolis entrance behind
 - athens/athens-little-kook-alice.jpg / athens-little-kook-front.jpg: Little Kook themed café, Psyrri
 - athens/athens-temple-of-hephaestus-view.jpg: Temple of Hephaestus and the city, from above
+
+## Qingyuan, China: Hezhong (GLX) Hot Spring, Sankeng Town (visited 2026-11-07)
+- qingyuan-hezhong/night-pond-lanterns-bridge.jpg: lit pond, rocks, cacti, red bridge, lanterns (night)
+- qingyuan-hezhong/lantern-path-cactus.jpg: stone path under lanterns with cacti (night)
+- qingyuan-hezhong/cactus-path-night.jpg: curving path through the cactus garden (night)
+- qingyuan-hezhong/red-bridge-view-night.jpg: rock garden and pond from the red bridge (night)
+- qingyuan-hezhong/pomegranate-lantern-tree.jpg: tree hung with glowing lanterns and pomegranates
+- qingyuan-hezhong/kayak-channel-night.jpg: blue-lit kayak channel and dragon mural (night)
+- qingyuan-hezhong/round-pool-night.jpg: round stone pool (night)
+- qingyuan-hezhong/wonderful-spring-sign.jpg: "Wonderful Spring" pool sign, 32–41°C (day)
+- qingyuan-hezhong/fish-foot-spa.jpg: fish foot spa, Kile's feet (day)
