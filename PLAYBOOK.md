@@ -50,10 +50,9 @@ Hook line, 3–6 short paragraphs or bullet lines with the key facts, a question
 
 ## Topic ideas (not yet used)
 - Europe's most punctual airlines (Cirium 2025 data)
-- Winter-only sights: Iceland ice caves, Abraham Lake ice bubbles (Canada)
+- Winter-only sights: Abraham Lake ice bubbles (Canada)
 - Where to go in December / January (Europe & Asia)
 - Lesser-known UNESCO sites in Europe and Asia
-- Christmas markets beyond the famous ones
 
 ## Posted so far
-2026-11-03 China visa · 11-04 China payments · 11-06 Asia-Pacific punctual airlines · 11-09 UK/Europe entry rules (ETA/EES/ETIAS) · 11-11 Acropolis & Athens · 11-13 Hezhong hot spring pools, Qingyuan · 11-23 Monarch butterfly sanctuaries, Mexico
+2026-11-03 China visa · 11-04 China payments · 11-06 Asia-Pacific punctual airlines · 11-09 UK/Europe entry rules (ETA/EES/ETIAS) · 11-11 Acropolis & Athens · 11-13 Hezhong hot spring pools, Qingyuan · 11-23 Monarch butterfly sanctuaries, Mexico · 11-25 Christmas markets beyond the famous ones (Montreux, Tallinn, Valkenburg, Kaysersberg) · 11-27 Iceland ice caves
