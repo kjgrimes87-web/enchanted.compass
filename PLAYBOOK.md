@@ -37,7 +37,7 @@ Hook line, 3–6 short paragraphs or bullet lines with the key facts, a question
 
 ## How to build a post
 1. Research (WebSearch/WebFetch). Note each fact's source.
-2. Get real photos first (rule 8). Copy a photo-based generator (`tools/athens/slides.js` or `tools/glx/slides.js`) and edit the slide HTML.
+2. Get real photos first (rule 8). Wikimedia Commons API works with a descriptive User-Agent (see `tools/photo/` and the search helper notes there); it rate-limits (HTTP 429), so go slowly. Credit every photo on the slide (photographer + licence) and in the caption. Licensed photos used so far are in `photos/commons/`. Copy a photo-based generator (`tools/athens/slides.js` or `tools/glx/slides.js`) and edit the slide HTML.
 3. Setup once per machine:
    `npm i -g playwright && npx playwright install chromium`
    `mkdir -p /home/claude/ig/design && cd /home/claude/ig/design && npm i @fontsource/fraunces @fontsource/caveat`
@@ -55,4 +55,6 @@ Hook line, 3–6 short paragraphs or bullet lines with the key facts, a question
 - Lesser-known UNESCO sites in Europe and Asia
 
 ## Posted so far
-2026-11-03 China visa · 11-04 China payments · 11-06 Asia-Pacific punctual airlines · 11-09 UK/Europe entry rules (ETA/EES/ETIAS) · 11-11 Acropolis & Athens · 11-13 Hezhong hot spring pools, Qingyuan · 11-23 Monarch butterfly sanctuaries, Mexico · 11-25 Christmas markets beyond the famous ones (Montreux, Tallinn, Valkenburg, Kaysersberg) · 11-27 Iceland ice caves · 11-30 Europe's most on-time airlines & airports 2025 (Cirium)
+2026-11-03 China visa · 11-04 China payments · 11-06 Asia-Pacific punctual airlines · 11-09 UK/Europe entry rules (ETA/EES/ETIAS) · 11-11 Acropolis & Athens · 11-13 Hezhong hot spring pools, Qingyuan · 11-23 Monarch butterfly sanctuaries, Mexico · 11-25 Christmas markets beyond the famous ones (Montreux, Tallinn, Valkenburg, Kaysersberg) · 11-27 Iceland ice caves · 11-30 Europe's most on-time airlines & airports 2025 (Cirium), real-photo version · 12-02 Christmas markets (real-photo repost) · 12-04 Iceland ice caves (real-photo repost) · 12-07 Monarch butterflies (real-photo repost)
+
+Note: the original illustrated posts (11-09 entry rules renders, 11-23 monarchs, 11-25 Christmas markets, 11-27 ice caves) were rejected by the owner; the owner deletes them in Instagram.
