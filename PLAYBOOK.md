@@ -28,7 +28,8 @@ Audience: Europe and Asia first (not the US). China is fine occasionally, but mo
    - Slide counter top-right, @enchanted.compass bottom-left, SWIPE → bottom-right (not on the last slide).
 6. **Photos:** never stretch or distort. Crop/zoom only. Measure the subject against the frame's aspect ratio before cropping; change the frame shape if needed.
 7. Don't call man-made pools "hot springs". Don't present the owner's neutral comments as complaints.
-8. Don't tell the owner to use their own photos. When there are no photos, use original illustrations (see `tools/monarch/bfly.js`) or Blender renders (`tools/eta/scene_eta.py`); mark renders `isAiGenerated: true`.
+8. **REAL PHOTOS ONLY (owner's standing order, 2026-11-28). NEVER use illustrations, cartoons, drawings, SVG art, Blender/3D renders or AI images, on any slide, cover or background.** Every post needs real photographs of the actual place/subject: the owner's photos in `photos/`, or properly licensed real photos (credit the photographer and licence on the slide and in the caption). Graphic text slides on a plain colour are fine, but the cover and the post as a whole must show real photos. The old `tools/monarch/bfly.js`, `tools/eta/scene_eta.py`, and the illustrated covers in `tools/xmas`, `tools/icecave`, `tools/euair` are banned; do not copy them.
+   - If no real photo can be obtained for a topic (e.g. the photo sites are blocked from this environment), do NOT build or schedule the post. Leave the slot empty and notify the owner with what photos are needed.
 9. Never draw copyrighted characters, logos or real artworks.
 
 ## Caption format
@@ -36,7 +37,7 @@ Hook line, 3–6 short paragraphs or bullet lines with the key facts, a question
 
 ## How to build a post
 1. Research (WebSearch/WebFetch). Note each fact's source.
-2. Copy a generator from `tools/` (e.g. `tools/monarch/slides.js`) and edit the slide HTML.
+2. Get real photos first (rule 8). Copy a photo-based generator (`tools/athens/slides.js` or `tools/glx/slides.js`) and edit the slide HTML.
 3. Setup once per machine:
    `npm i -g playwright && npx playwright install chromium`
    `mkdir -p /home/claude/ig/design && cd /home/claude/ig/design && npm i @fontsource/fraunces @fontsource/caveat`
